@@ -1367,7 +1367,7 @@ client.on('message',async message =>{
 
 
 
-var id = ['490871722011131935'] //تذكر إذا كنت تبي تضيف شخص معاك حط فاصله وبعدين العلامه '
+var id = ['567433762757935104'] //تذكر إذا كنت تبي تضيف شخص معاك حط فاصله وبعدين العلامه '
 var initcmd = '#'
 const developers = id
 const adminprefix = initcmd;
